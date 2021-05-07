@@ -96,7 +96,7 @@ p {
    background-attachment: fixed;
    background-position: center;
    background-repeat: no-repeat;
-   background-image: url(/assets/img/title-screen.jpeg);
+   background-image: url(../img/title-screen.jpeg);
    height: 100vh;
 }
 
@@ -157,7 +157,7 @@ p {
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url(/assets/img/ocean-wave.jpg);
+    background-image: url(../img/ocean-wave.jpg);
     height: 400px;
  }
  
