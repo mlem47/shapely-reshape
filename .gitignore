@@ -25,4 +25,4 @@ node_modules/
 # ignore 
 .DS_Store
 .vscode
-.vscode/ftp-sync.json
+.vscode/sftp.json
