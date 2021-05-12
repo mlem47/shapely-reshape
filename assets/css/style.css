@@ -233,6 +233,26 @@ p {
     height: 100%;
  }
 
+ .section-g{
+    position: relative;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../img/ocean-town.jpg);
+    height: 200px;
+ }
+
+ .section-g .container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 1.5rem;
+ }
+
  
 
 /* Utilities */
